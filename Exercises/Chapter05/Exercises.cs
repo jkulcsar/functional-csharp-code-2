@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Specialized;
-//using System.Configuration;
-using LaYumba.Functional;
+﻿//using System.Configuration;
 
 namespace Exercises.Chapter5
 {

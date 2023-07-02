@@ -1,12 +1,7 @@
 ﻿using Boc.Commands;
 using Boc.Domain;
 using Boc.Domain.Events;
-
-using System;
 using Microsoft.AspNetCore.Builder;
-
-using LaYumba.Functional;
-
 using AccountState = Boc.Chapter13.Domain.AccountState;
 using Boc.Chapter13.Domain;
 

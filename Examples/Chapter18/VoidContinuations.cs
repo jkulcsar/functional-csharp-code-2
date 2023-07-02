@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
-using static System.Console;
-using LaYumba.Functional;
+﻿using System.Threading.Tasks;
 
 namespace Examples.Chapter18
 {

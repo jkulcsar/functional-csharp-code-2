@@ -1,10 +1,6 @@
-﻿using System;
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
-
-using System.Linq;
 
 namespace Examples.Chapter16
 {

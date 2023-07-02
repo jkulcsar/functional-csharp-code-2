@@ -1,6 +1,4 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
+﻿using static LaYumba.Functional.F;
 
 class Interview_Example_Option
 {

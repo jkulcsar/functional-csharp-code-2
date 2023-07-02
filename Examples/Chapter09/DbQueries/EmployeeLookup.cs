@@ -1,7 +1,4 @@
-﻿using LaYumba.Functional;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace Examples.Chapter9
 {

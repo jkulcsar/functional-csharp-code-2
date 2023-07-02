@@ -1,9 +1,4 @@
-﻿using static System.Linq.Enumerable;
-using static System.Console;
-using System.Threading.Tasks;
-using System;
-
-namespace Examples.Chapter11
+﻿namespace Examples.Chapter11
 {
    class Product
    {

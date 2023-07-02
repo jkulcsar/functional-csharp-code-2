@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Examples
+﻿namespace Examples
 {
    public enum Risk { Low, Medium, High }
 }

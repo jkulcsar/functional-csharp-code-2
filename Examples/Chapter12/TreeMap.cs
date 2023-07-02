@@ -1,5 +1,4 @@
-﻿using System;
-using LaYumba.Functional.Data.BinaryTree;
+﻿using LaYumba.Functional.Data.BinaryTree;
 
 namespace Examples.Chapter12
 {

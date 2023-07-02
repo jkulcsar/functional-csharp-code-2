@@ -1,7 +1,4 @@
-﻿using System;
-using System.Linq;
-using LaYumba.Functional;
-using Double = LaYumba.Functional.Double;
+﻿using Double = LaYumba.Functional.Double;
 
 namespace Examples.Chapter10.Linq
 {

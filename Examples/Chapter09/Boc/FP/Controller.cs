@@ -1,10 +1,7 @@
 ﻿using Boc.Commands;
 using Boc.Domain;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
-using NUnit.Framework;
 using Unit = System.ValueTuple;
 
 namespace Boc

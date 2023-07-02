@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Collections.Immutable;
 using Boc.Domain;
-using NUnit.Framework;
 
 namespace Examples.Chapter11
 {

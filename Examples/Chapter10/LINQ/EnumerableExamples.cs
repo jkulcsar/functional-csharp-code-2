@@ -1,8 +1,4 @@
-﻿using System;
-using System.Linq;
-using LaYumba.Functional;
-
-namespace Examples.Chapter10.Linq
+﻿namespace Examples.Chapter10.Linq
 {
    using static Console;
    using static F;

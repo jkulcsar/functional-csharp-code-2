@@ -1,9 +1,6 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
+﻿using static LaYumba.Functional.F;
 using System.Collections.Immutable;
 using System.Threading.Tasks;
-using static System.Console;
 using Examples.Chapter16;
 using Newtonsoft.Json;
 using StackExchange.Redis;

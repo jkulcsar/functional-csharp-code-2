@@ -1,15 +1,6 @@
-﻿using System;
-using System.Linq;
-using static System.Console;
-
-using System.Net.Http;
-using System.Text.Json;
-
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
+﻿using static LaYumba.Functional.F;
 
 using Rates = System.Collections.Immutable.ImmutableDictionary<string, decimal>;
-using System.Threading.Tasks;
 
 namespace Examples.Chapter15
 {

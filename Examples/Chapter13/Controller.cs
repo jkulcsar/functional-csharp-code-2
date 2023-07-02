@@ -1,7 +1,4 @@
 ﻿using Boc.Commands;
-using System;
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
 using Boc.Domain.Events;
 using AccountState = Boc.Chapter13.Domain.AccountState;
 using Boc.Chapter13.Domain;

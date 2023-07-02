@@ -1,8 +1,4 @@
-﻿using LaYumba.Functional;
-using NUnit.Framework;
-using System;
-
-namespace Exercises.Chapter9
+﻿namespace Exercises.Chapter9
 {
    static class Exercises
    {

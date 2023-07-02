@@ -1,8 +1,4 @@
-﻿using LaYumba.Functional;
-using System;
-using System.Linq;
-using NUnit.Framework;
-using Double = LaYumba.Functional.Double;
+﻿using Double = LaYumba.Functional.Double;
 using String = LaYumba.Functional.String;
 
 namespace Examples.Chapter10

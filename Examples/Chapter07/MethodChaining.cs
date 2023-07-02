@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Examples.Chapter5
+﻿namespace Examples.Chapter5
 {
    public static class MethodChaining
    {

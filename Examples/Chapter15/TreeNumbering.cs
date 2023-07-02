@@ -1,6 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-using LaYumba.Functional.Data.BinaryTree;
+﻿using LaYumba.Functional.Data.BinaryTree;
 
 // adapted from Brian Beckman: The Zen of Stateless State
 // https://channel9.msdn.com/Shows/Going+Deep/Brian-Beckman-The-Zen-of-Expressing-State-The-State-Monad
@@ -9,7 +7,6 @@ namespace Examples.StateEx
 {
    using static Tree;
    using static StatefulComputation<int>;
-   using static F;
 
    // A tree containing data of type "a" is either a Leaf
    // containing an instance of type a, "Leaf a", or a Branch

@@ -1,5 +1,4 @@
-﻿using System;
-using Boc.Domain.Events;
+﻿using Boc.Domain.Events;
 
 namespace Boc.Commands
 {

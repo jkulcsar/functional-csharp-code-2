@@ -1,8 +1,4 @@
-﻿using System;
-using static System.Console;
-using System.Reactive.Linq;
-
-namespace Examples.Chapter18
+﻿namespace Examples.Chapter18
 {
    public static class ObservableExt
    {

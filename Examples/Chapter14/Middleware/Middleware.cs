@@ -1,10 +1,7 @@
-using System;
 using System.Collections.Generic;
 
 using static LaYumba.Functional.F;
 using Unit = System.ValueTuple;
-
-using NUnit.Framework;
 
 namespace Examples.Chapter14
 {

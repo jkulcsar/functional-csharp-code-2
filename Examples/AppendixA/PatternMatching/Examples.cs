@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Examples.AppendixA.PatternMatching
+﻿namespace Examples.AppendixA.PatternMatching
 {
    enum Ripeness { Green, Yellow, Brown }
 

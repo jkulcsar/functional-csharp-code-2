@@ -1,9 +1,6 @@
 ﻿using Boc.Commands;
 using Boc.Domain;
 using Boc.Domain.Events;
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
 using Boc.Chapter13.Domain;
 
 namespace Boc.Chapter13.Transitions

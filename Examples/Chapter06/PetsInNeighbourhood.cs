@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using LaYumba.Functional;
-using System;
 
 namespace Examples.Bind
 {

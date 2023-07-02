@@ -1,7 +1,4 @@
 ﻿using Boc.Chapter13.Domain;
-using NUnit.Framework;
-using System;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 using Boc.Commands;
 using Microsoft.AspNetCore.Mvc;

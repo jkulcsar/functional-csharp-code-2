@@ -1,6 +1,4 @@
 ﻿using System.Threading;
-using static System.Console;
-using LaYumba.Functional;
 using System.Threading.Tasks;
 
 namespace Examples.Agents

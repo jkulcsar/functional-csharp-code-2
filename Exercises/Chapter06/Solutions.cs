@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using LaYumba.Functional;
-using static LaYumba.Functional.F;
 
 namespace Exercises.Chapter6.Solutions
 {

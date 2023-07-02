@@ -3,11 +3,9 @@ using Boc.Domain;
 using Dapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 using Unit = System.ValueTuple;
 using System.Text.RegularExpressions;
-using System;
 using Examples.Chapter2.DbLogger;
 
 namespace Boc.ValidImpl

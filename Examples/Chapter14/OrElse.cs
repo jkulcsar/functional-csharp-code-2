@@ -1,6 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-using Unit = System.ValueTuple;
+﻿using Unit = System.ValueTuple;
 
 namespace Examples.Chapter14
 {

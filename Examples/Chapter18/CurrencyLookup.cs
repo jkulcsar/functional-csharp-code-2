@@ -1,9 +1,4 @@
-﻿using System;
-using System.Net.Http;
-using static System.Console;
-using System.Threading.Tasks;
-using LaYumba.Functional;
-using Decimal = LaYumba.Functional.Decimal;
+﻿using Decimal = LaYumba.Functional.Decimal;
 using System.Collections.Immutable;
 
 using System.Reactive.Linq;

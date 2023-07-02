@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 using Boc.Domain;
 using Boc.Commands;
@@ -8,8 +7,6 @@ using Boc.Domain.Events;
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Builder;
-
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 using Unit = System.ValueTuple;
 

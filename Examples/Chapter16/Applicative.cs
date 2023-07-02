@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 
 namespace Examples.Chapter16

@@ -1,9 +1,6 @@
 using Boc.Commands;
 using Boc.Services;
 
-using NUnit.Framework;
-using System;
-
 namespace Examples.Chapter03.Boc.InjectInterface
 {
    // interface

@@ -1,8 +1,4 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
-
-namespace Exercises.Chapter8
+﻿namespace Exercises.Chapter8
 {
    static class Exercises
    {

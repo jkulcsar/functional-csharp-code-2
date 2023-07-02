@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Examples.Chapter7
+﻿namespace Examples.Chapter7
 {
    using static Console;
 

@@ -1,11 +1,6 @@
-﻿using static System.Console;
-using System.Linq;
-using System.Net.Http;
+﻿using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
-
-using LaYumba.Functional;
-
 using Rates = System.Collections.Immutable.ImmutableDictionary<string, decimal>;
 using CurrencyCode = Boc.Domain.CurrencyCode;
 using Decimal = LaYumba.Functional.Decimal;

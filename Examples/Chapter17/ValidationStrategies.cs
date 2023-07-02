@@ -1,9 +1,4 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using NUnit.Framework;
-using System.Linq;
-
-using Boc.Chapter9;
+﻿using static LaYumba.Functional.F;
 
 namespace Boc.Chapter17
 {

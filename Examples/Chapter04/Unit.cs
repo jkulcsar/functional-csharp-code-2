@@ -1,6 +1,5 @@
 ﻿using System.IO;
 using System.Text;
-using LaYumba.Functional;
 
 namespace Examples.Chapter4
 {

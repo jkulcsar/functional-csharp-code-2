@@ -1,7 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using static System.Console;
+﻿using static LaYumba.Functional.F;
 using System.Collections.Generic;
 
 namespace Examples.Chapter9.Apply

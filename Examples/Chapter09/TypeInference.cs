@@ -1,7 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-
-using Name = System.String;
+﻿using Name = System.String;
 using Greeting = System.String;
 using PersonalizedGreeting = System.String;
 

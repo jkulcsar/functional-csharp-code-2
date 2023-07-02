@@ -1,7 +1,5 @@
-using System;
 using Boc.Commands;
 using Boc.Services;
-using NUnit.Framework;
 
 namespace Examples.Chapter03.Boc.InjectFunc
 {

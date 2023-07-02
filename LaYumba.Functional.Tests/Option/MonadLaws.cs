@@ -1,9 +1,7 @@
 ﻿using FsCheck.Xunit;
 using FsCheck;
 using System;
-using System.Collections.Generic;
 using Xunit;
-using LaYumba.Functional;
 
 namespace LaYumba.Functional.Tests
 {

@@ -1,13 +1,9 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.Configuration;
 
 using Boc.Commands;
-using Boc.Domain;
-
-using LaYumba.Functional;
 using Unit = System.ValueTuple;
 
 using Examples;

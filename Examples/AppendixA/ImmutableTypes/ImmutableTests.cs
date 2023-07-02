@@ -1,6 +1,4 @@
-﻿using NUnit.Framework;
-
-namespace Examples.AppendixA.Immutable
+﻿namespace Examples.AppendixA.Immutable
 {
    class A
    {

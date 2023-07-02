@@ -1,5 +1,4 @@
-﻿using LaYumba.Functional;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Boc.Api
 {

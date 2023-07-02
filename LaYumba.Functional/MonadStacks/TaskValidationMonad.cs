@@ -3,8 +3,6 @@ using System.Threading.Tasks;
 
 namespace LaYumba.Functional
 {
-   using static F;
-
    public static class TaskValidationMonad
    {
       //public static Validation<Task<V>> SelectMany<T, U, V>

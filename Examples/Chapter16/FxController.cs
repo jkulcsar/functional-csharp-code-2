@@ -1,12 +1,9 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using static Microsoft.AspNetCore.Http.Results;
-
-using LaYumba.Functional;
 using Boc.Domain;
 
 namespace Examples.Chapter16

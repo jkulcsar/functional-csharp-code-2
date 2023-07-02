@@ -1,9 +1,5 @@
-﻿using System;
-using static System.Console;
-using System.Linq;
-using System.Reactive.Linq;
+﻿using System.Reactive.Linq;
 using System.Reactive.Subjects;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 
 namespace Examples.Chapter18

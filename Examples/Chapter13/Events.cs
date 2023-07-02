@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Boc.Domain.Events
+﻿namespace Boc.Domain.Events
 {
    public abstract record Event
    (

@@ -1,11 +1,8 @@
 ﻿using Boc.Commands;
 using Boc.Domain;
 using Boc.Domain.Events;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using Examples.AppendixA.PatternMatching;
 
 namespace Boc.AppendixA.EventSourcing.Domain

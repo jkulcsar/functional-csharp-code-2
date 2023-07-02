@@ -1,6 +1,4 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using NUnit.Framework;
+﻿using static LaYumba.Functional.F;
 using static System.Math;
 
 partial class Either_Example

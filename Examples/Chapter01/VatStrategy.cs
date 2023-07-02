@@ -1,5 +1,4 @@
-﻿using System;
-namespace Examples.Chapter01
+﻿namespace Examples.Chapter01
 {
    record Product(string Name, decimal Price, bool IsFood);
 

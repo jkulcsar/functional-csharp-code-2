@@ -1,6 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
+﻿using static LaYumba.Functional.F;
 
 namespace Examples.Chapter9
 {

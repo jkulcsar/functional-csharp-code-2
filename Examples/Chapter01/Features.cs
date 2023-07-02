@@ -1,7 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-using NUnit.Framework;
-using static System.Math;
+﻿using static System.Math;
 
 namespace Examples.Chapter1
 {

@@ -1,8 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
-using LaYumba.Functional;
-using NUnit.Framework;
-using static System.Console;
 
 namespace Examples.Chapter3.ListFormatter.Parallel.InfiniteSequence
 {

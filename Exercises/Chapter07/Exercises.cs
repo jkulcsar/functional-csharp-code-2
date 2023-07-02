@@ -1,9 +1,5 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using NUnit.Framework;
 using Examples.Chapter5;
 
 namespace Exercises.Chapter7

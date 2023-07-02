@@ -1,9 +1,6 @@
 ﻿using Boc.Domain.Events;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace Boc.Chapter13.Query
 {

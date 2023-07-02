@@ -1,7 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-
-using LaYumba.Functional;
 using LaYumba.Functional.Data.LinkedList;
 using static LaYumba.Functional.Data.LinkedList.LinkedList;
 

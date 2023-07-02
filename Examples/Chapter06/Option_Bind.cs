@@ -1,9 +1,6 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 using Examples.Chapter5;
-using static System.Console;
 
 namespace Examples.Chapter6
 {

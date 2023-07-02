@@ -1,9 +1,5 @@
-﻿using LaYumba.Functional;
-using Enum = LaYumba.Functional.Enum;
-using NUnit.Framework;
-using System;
+﻿using Enum = LaYumba.Functional.Enum;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace Examples.Chapter9
 {

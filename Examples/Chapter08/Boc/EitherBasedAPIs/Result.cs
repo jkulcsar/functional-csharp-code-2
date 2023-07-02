@@ -1,6 +1,4 @@
-﻿using LaYumba.Functional;
-
-namespace Boc.Api
+﻿namespace Boc.Api
 {
    public record ResultDto<T>
    {

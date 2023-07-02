@@ -1,7 +1,4 @@
-﻿using System;
-using LaYumba.Functional;
-
-namespace Boc.Domain
+﻿namespace Boc.Domain
 {
    public static class Errors
    {

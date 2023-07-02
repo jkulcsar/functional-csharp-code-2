@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using LaYumba.Functional;
+﻿using System.Threading.Tasks;
 
 namespace Examples.Chapter16
 {

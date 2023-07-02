@@ -1,5 +1,4 @@
-using System;
-using LaYumba.Functional;
+
 
 // the "Reader" monad, popular in the literature, but not very useful in real life IMO
 // similar to the other functions-as-monads discussed in chapters 14-15

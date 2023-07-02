@@ -1,7 +1,4 @@
-﻿using System;
-using NUnit.Framework;
-
-namespace Examples.Chapter11
+﻿namespace Examples.Chapter11
 {
    class DateTime_Example
    {

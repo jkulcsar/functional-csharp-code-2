@@ -1,7 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
-using LaYumba.Functional;
-using NUnit.Framework;
 
 namespace Examples.Chapter7
 {

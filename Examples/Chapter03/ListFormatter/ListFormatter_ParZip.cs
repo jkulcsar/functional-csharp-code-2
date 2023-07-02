@@ -1,6 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
-using NUnit.Framework;
 
 namespace Examples.Chapter3.ListFormatter.Parallel.WithRange
 {

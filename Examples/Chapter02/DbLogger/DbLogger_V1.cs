@@ -2,7 +2,6 @@
 using System.Data.SqlClient;
 using Dapper;
 using System.Collections.Generic;
-using System;
 
 namespace Examples.Chapter2.DbLogger
 {

@@ -1,10 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
-using System;
-
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
-using System.Linq;
-using NUnit.Framework;
 
 namespace Examples.Chapter11
 {

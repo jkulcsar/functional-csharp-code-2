@@ -1,6 +1,4 @@
-﻿using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
+﻿using static LaYumba.Functional.F;
 using System.Threading.Tasks;
 using Boc.Chapter13.Domain;
 using Boc.Domain.Events;

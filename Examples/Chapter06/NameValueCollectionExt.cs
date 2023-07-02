@@ -1,6 +1,4 @@
-﻿using LaYumba.Functional;
-using System.Collections.Specialized;
-using static LaYumba.Functional.F;
+﻿using System.Collections.Specialized;
 
 namespace Examples.Chapter6
 {

@@ -1,9 +1,6 @@
 using Boc.Commands;
 using Boc.Services;
 
-using System;
-using NUnit.Framework;
-
 namespace Examples.Chapter03.Boc.NotTestable
 {
    public class DateNotPastValidator : IValidator<MakeTransfer>

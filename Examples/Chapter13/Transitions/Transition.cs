@@ -1,9 +1,4 @@
-﻿using Boc.Domain.Events;
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
-using System;
-
-namespace Boc.Chapter13
+﻿namespace Boc.Chapter13
 {
    public delegate Validation<(T, St)> Transition<St, T>(St state);
 

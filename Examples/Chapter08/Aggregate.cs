@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using LaYumba.Functional;
-
-namespace Examples.Chapter8
+﻿namespace Examples.Chapter8
 {
    using static F;
 

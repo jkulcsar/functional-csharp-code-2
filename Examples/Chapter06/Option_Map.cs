@@ -1,11 +1,4 @@
-﻿using System;
-using static System.Console;
-
-using LaYumba.Functional;
-using static LaYumba.Functional.F;
-
-using NUnit.Framework;
-
+﻿using static LaYumba.Functional.F;
 using Age = Examples.Chapter5.Age;
 
 namespace Examples

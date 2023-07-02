@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Dapper;
 using Examples.Chapter2.DbLogger;
-using LaYumba.Functional;
 using static LaYumba.Functional.F;
 using Unit = System.ValueTuple;
 

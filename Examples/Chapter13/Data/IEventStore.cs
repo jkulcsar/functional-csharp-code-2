@@ -1,5 +1,4 @@
 using Boc.Domain.Events;
-using System;
 using System.Collections.Generic;
 
 namespace Boc.Data
